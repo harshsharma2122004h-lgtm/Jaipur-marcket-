@@ -59,3 +59,4 @@ Chunki aapke paas laptop nahi hai, iske 2 tareeke hain:
 - Admin panel (product add/edit, order management)
 
 Jab ready ho, bata dena — Phase 2 shuru kar denge.
+Phase 1 deployed.
